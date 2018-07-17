@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TripChecker</string>
+    <string name="location_missing">No location</string>
+    <string name="destination_missing">No destination</string>
+    <string name="finding_route_message">Getting Best Route</string>
+    <string name="permission_dialog_title">Location Permission</string>
+    <string name="permission_message">Please accept to use location feature</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="your_location">Your Location</string>
+</resources>

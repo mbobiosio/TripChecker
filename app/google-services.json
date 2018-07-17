@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "653584832707",
+    "firebase_url": "https://journal-app-1530085450585.firebaseio.com",
+    "project_id": "journal-app-1530085450585",
+    "storage_bucket": "journal-app-1530085450585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653584832707:android:3a4e4b0f9d4afa2c",
+        "android_client_info": {
+          "package_name": "com.mbobiosio.tripchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653584832707-ojpd23jqaphd4jik0pretc8ic6s63bao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0-1Jd_K2_q0IOAvyuBk0XWD-p3HqXNxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653584832707:android:b464b9cdf98b5500",
+        "android_client_info": {
+          "package_name": "info.mbobiosio.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653584832707-ojpd23jqaphd4jik0pretc8ic6s63bao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0-1Jd_K2_q0IOAvyuBk0XWD-p3HqXNxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

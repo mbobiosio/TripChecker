@@ -9,8 +9,8 @@ Trip Tracker App is a simple illustration for using Google Maps and Places API. 
 
 ## Screenshots
 * [Screenshot One](https://github.com/mbobiosio/TripChecker/blob/master/Capture%2B_2018-07-17-12-27-14.png)
-* [Screenshot Three] (https://github.com/mbobiosio/TripChecker/blob/master/Screenshot_2018-07-17-12-28-14.png)
-* [Screenshot Three] (https://github.com/mbobiosio/TripChecker/blob/master/Capture%2B_2018-07-17-12-29-56.png)
+* [Screenshot Two](https://github.com/mbobiosio/TripChecker/blob/master/Screenshot_2018-07-17-12-28-14.png)
+* [Screenshot Three](https://github.com/mbobiosio/TripChecker/blob/master/Capture%2B_2018-07-17-12-29-56.png)
 
 ## Authors
 
